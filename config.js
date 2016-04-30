@@ -1,6 +1,6 @@
 module.exports={
 
-	"database":"mongodb://root:advanced#b@ds045734.mongolab.com:45734/userstory",
+	"database":"mongodb://root:Sunny@007@ds011732.mlab.com:11732/userstory",
 	"port":process.env.PORT || 3000,
 	"secretKey": "yourSecretKey"
 }
