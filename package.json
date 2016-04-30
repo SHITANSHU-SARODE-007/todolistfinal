@@ -1,5 +1,5 @@
 {
-  "name": "hemant",
+  "name": "Shitanshu",
   "version": "0.0.0",
   "description": "This is a user Story app",
   "main": "server.js",
@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "author": "Hemant Dave",
+  "author": "Shitanshu",
   "license": "ISC",
   "dependencies": {
     "bcrypt-nodejs": "0.0.3",
